@@ -15,7 +15,7 @@
  <h1>Herramientas</h1>
  *Intellij IDE
  <br>
- *JDK 15
+ *JDK 17
  <br>
  </div>
 <div>

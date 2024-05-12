@@ -13,11 +13,6 @@ Programa de sistema de ventas creado como parte de las **Charlas Back-end** de l
 
 <br>
 
-# <img height="65" src="https://media.giphy.com/media/jf8FsS1JGOXmg/giphy.gif"/> Cómo contribuir
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVtMHRnMGpyanBuNjVuNjJ2dXhxM3h1cmxwOHBlb2VyZWxzbGMzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPC3EW2A56PaM7K/giphy.gif"/>
-
-
 <br>
 
 

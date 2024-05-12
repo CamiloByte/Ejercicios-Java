@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="T4Ejercicio1/src"/>
+	<classpathentry kind="src" path="T4Ejercicio13/src"/>
+	<classpathentry kind="src" path="T4Ejercicio14/src"/>
+	<classpathentry kind="src" path="T4Ejercicio15/src"/>
+	<classpathentry kind="src" path="T4Ejercicio16/src"/>
+	<classpathentry kind="src" path="T4Ejercicio2/src"/>
+	<classpathentry kind="src" path="T4Ejercicio2/T4Ejercicio1/src"/>
+	<classpathentry kind="src" path="T4Ejercicio3/src"/>
+	<classpathentry kind="src" path="T4Ejercicio4/src"/>
+	<classpathentry kind="src" path="T4Ejercicio5/src"/>
+	<classpathentry kind="output" path="T4Ejercicio13/build/classes"/>
+</classpath>
